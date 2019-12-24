@@ -1,0 +1,11 @@
+.nav{
+    overflow: hidden;
+}
+.nav nac-item {
+    float: left;
+    color: #ccc;margin-right: 10px;
+    text-decoration: none;
+}
+.nav .router-link-active{
+    color: yellow;
+}
